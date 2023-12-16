@@ -1,3 +1,5 @@
+### PROJETO EM ANDAMENTO ###
+
 # GB e Site JV Clínicas
 Este projeto consiste em um site para a clínica médica "GB & JV Clínicas”. O objetivo principal do site é fornecer informações sobre a clínica, seus serviços, médicos e facilitar o contato.
 
@@ -14,3 +16,13 @@ script.js: Arquivo JavaScript que pode conter funcionalidades adicionais.
 # Estrutura do Projeto
 O projeto está estruturado com base em páginas HTML individuais para cada seção do site. O CSS é separado no arquivo styles.css para manter a estilização organizada e o JavaScript, se necessário, pode ser adicionado ao arquivo script.js.# Clinica-Readme
 
+
+# Como está o Projeto 
+<img src="imagens/agendar.png" alt="Ícone de Contato">
+<img src="imagens/inicio.png" alt="Ícone de Contato">
+<img src="imagens/medicos.png" alt="Ícone de Contato">
+<img src="imagens/servicos.png" alt="Ícone de Contato">
+
+# Realizador do Projeto
+
+Gustavo Brasil
